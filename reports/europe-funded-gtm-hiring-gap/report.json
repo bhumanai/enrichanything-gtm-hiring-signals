@@ -47,5 +47,9 @@
       "gap": "",
       "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
     }
-  ]
+  ],
+  "repoReadmePath": "reports/europe-funded-gtm-hiring-gap/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/reports/europe-funded-gtm-hiring-gap/README.md",
+  "trackedSiteUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap",
+  "trackedMarketUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap-market"
 }

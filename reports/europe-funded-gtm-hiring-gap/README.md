@@ -2,8 +2,8 @@
 
 A public research note on how post-fund GTM hiring creates a narrow systems-build window for operators selling RevOps, outbound setup, or infrastructure help.
 
-- Page: https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap
-- Related list: https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders
+- Open in EnrichAnything: [See the note](https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap)
+- Related list: [Open the linked list](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap-market)
 - Status: collecting sample
 - Context: Updated from EnrichAnything market scans · live snapshot from March 23, 2026
 - Last checked: March 23, 2026
@@ -24,4 +24,4 @@ This note is still being built because the underlying list is still filling in.
 
 ## Want the full list?
 
-Open the related list in EnrichAnything if you want to inspect rows, add columns, or build your own version: https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap
+Open the [related list in EnrichAnything](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap-market) if you want rows, more columns, or a version for your own segment.

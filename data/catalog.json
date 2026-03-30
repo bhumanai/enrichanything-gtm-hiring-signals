@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T11:26:31.907Z",
+  "generatedAt": "2026-03-30T11:52:09.006Z",
   "title": "Companies That Look Like They're Building Sales Right Now",
   "summary": "Lists of funded startups hiring sales leadership before the rest of the sales system is in place.",
   "topics": [
@@ -112,7 +112,11 @@
           "gap": "",
           "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
         }
-      ]
+      ],
+      "repoReadmePath": "markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders",
+      "trackedReportUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-report"
     },
     {
       "kind": "market",
@@ -204,7 +208,11 @@
           "note": ""
         }
       ],
-      "sampleRows": []
+      "sampleRows": [],
+      "repoReadmePath": "markets/series-a-saas-hiring-sdr-no-sequencing/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/markets/series-a-saas-hiring-sdr-no-sequencing/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing",
+      "trackedReportUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing-report"
     }
   ],
   "reports": [
@@ -257,7 +265,11 @@
           "gap": "",
           "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
         }
-      ]
+      ],
+      "repoReadmePath": "reports/europe-funded-gtm-hiring-gap/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/reports/europe-funded-gtm-hiring-gap/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap",
+      "trackedMarketUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap-market"
     },
     {
       "kind": "report",
@@ -279,7 +291,11 @@
       "citationText": "",
       "stats": [],
       "chartRows": [],
-      "sampleRows": []
+      "sampleRows": [],
+      "repoReadmePath": "reports/series-a-sdr-tooling-gap/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/reports/series-a-sdr-tooling-gap/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-series-a-sdr-tooling-gap",
+      "trackedMarketUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-series-a-sdr-tooling-gap-market"
     }
   ]
 }

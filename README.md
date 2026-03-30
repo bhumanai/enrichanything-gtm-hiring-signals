@@ -4,40 +4,49 @@ Lists of funded startups hiring sales leadership before the rest of the sales sy
 
 Useful if you sell RevOps, outbound setup, or GTM recruiting into B2B teams.
 
+## Start here
+
+- Fastest first click: [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) (collecting sample)
+- Cleaner web version: [https://bhumanai.github.io/enrichanything-gtm-hiring-signals/](https://bhumanai.github.io/enrichanything-gtm-hiring-signals/)
+- Full product: [EnrichAnything](https://www.enrichanything.com/?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=repo-home)
+
 - Source product: https://www.enrichanything.com
-- Generated from EnrichAnything public assets: March 30, 2026
+- GitHub repo: https://github.com/bhumanai/enrichanything-gtm-hiring-signals
+- Last refresh: March 30, 2026
 - Refresh command: `npm run refresh`
 
-## What you'll find here
+## Use this repo if...
 
-These are public examples from EnrichAnything. You can browse the lists, see why a company matched, and click through if you want the full table or want to build your own version.
+- RevOps consultants: Start with funded teams hiring sales leadership early. The angle is that headcount is moving faster than process, tooling, or measurement. Start with [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) (collecting sample).
+- Outbound agencies: Use this when a company clearly wants pipeline but still looks early on sequencing, routing, and sales plumbing. Start with [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) (collecting sample).
+- GTM recruiters: The list helps you spot teams building go-to-market muscle quickly, even before the rest of the revenue stack catches up. Start with [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) (collecting sample).
 
-## Live lists
+## Lists you can use now
 
-| Market | Status | Rows | Page |
+| List | Status | Rows | Open |
 | --- | --- | ---: | --- |
-| [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md) | collecting sample | 18 | [Live page](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders) |
+| [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md) | collecting sample | 18 | [Open in EnrichAnything](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) |
 
-## Notes built from those lists
+## Notes that explain the market
 
-| Report | Status | Rows | Page |
+| Note | Status | Rows | Open |
 | --- | --- | ---: | --- |
-| [Recently funded startups in Europe often hire GTM leaders before the sales system is fully built](reports/europe-funded-gtm-hiring-gap/README.md) | collecting sample | 18 | [Live page](https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap) |
+| [Recently funded startups in Europe often hire GTM leaders before the sales system is fully built](reports/europe-funded-gtm-hiring-gap/README.md) | collecting sample | 18 | [Open in EnrichAnything](https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap) |
 
-## Coming next
+## Still queued up
 
-These list ideas already exist in EnrichAnything, but the public sample is not live yet.
+These list ideas exist already, but the public sample is not ready yet.
 
-| Market | Status | Page |
-| --- | --- | --- |
-| [Series A SaaS hiring SDRs but not using sequencing tools](markets/series-a-saas-hiring-sdr-no-sequencing/README.md) | template only | [Live page](https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing) |
+| List | Status |
+| --- | --- |
+| [Series A SaaS hiring SDRs but not using sequencing tools](markets/series-a-saas-hiring-sdr-no-sequencing/README.md) | template only |
 
-## Notes coming next
+## Notes still queued up
 
-| Report | Status | Page |
-| --- | --- | --- |
-| [Series A SaaS teams still hire SDRs before they buy sequencing infrastructure](reports/series-a-sdr-tooling-gap/README.md) | template only | [Live page](https://www.enrichanything.com/reports/series-a-sdr-tooling-gap) |
+| Note | Status |
+| --- | --- |
+| [Series A SaaS teams still hire SDRs before they buy sequencing infrastructure](reports/series-a-sdr-tooling-gap/README.md) | template only |
 
-## Want more than the sample?
+## Need a custom cut?
 
-Open any list in EnrichAnything if you want the full table, more columns, or a custom version for your niche.
+Open [EnrichAnything](https://www.enrichanything.com/?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=repo-home) if you want more columns, a fresh export, or the same pattern for a different niche.

@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Companies That Look Like They&#39;re Building Sales Right Now</title>
+    <meta name="description" content="Lists of funded startups hiring sales leadership before the rest of the sales system is in place.">
+    <style>
+      :root {
+        --bg: #f5f0e8;
+        --surface: rgba(255, 251, 245, 0.94);
+        --surface-strong: #fffdf8;
+        --ink: #1c1712;
+        --muted: #62584e;
+        --border: rgba(28, 23, 18, 0.12);
+        --accent: #1d4ed8;
+        --shadow: 0 24px 60px rgba(33, 25, 18, 0.08);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "IBM Plex Sans", "Avenir Next", "Segoe UI", sans-serif;
+        background:
+          radial-gradient(circle at top left, rgba(255, 255, 255, 0.7), transparent 30rem),
+          linear-gradient(180deg, #f7f2ea 0%, #efe6da 100%);
+        color: var(--ink);
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .shell {
+        max-width: 1120px;
+        margin: 0 auto;
+        padding: 32px 20px 72px;
+      }
+
+      .topbar {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        align-items: center;
+        margin-bottom: 32px;
+        font-size: 0.95rem;
+        color: var(--muted);
+      }
+
+      .topbar-links {
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+      }
+
+      .hero {
+        padding: 40px;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 28px;
+        box-shadow: var(--shadow);
+      }
+
+      .eyebrow {
+        margin: 0 0 12px;
+        font-size: 0.82rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--accent);
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        margin-bottom: 12px;
+        font-size: clamp(2.3rem, 5vw, 4.4rem);
+        line-height: 0.96;
+        max-width: 14ch;
+      }
+
+      .lede {
+        max-width: 44rem;
+        margin-bottom: 10px;
+        font-size: 1.12rem;
+        line-height: 1.6;
+      }
+
+      .sublede {
+        max-width: 42rem;
+        margin-bottom: 24px;
+        color: var(--muted);
+        font-size: 1rem;
+        line-height: 1.6;
+      }
+
+      .hero-stats,
+      .card-actions,
+      .topbar-links,
+      .hero-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+
+      .stat {
+        padding: 10px 14px;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        background: var(--surface-strong);
+        font-size: 0.92rem;
+      }
+
+      .hero-actions {
+        margin-top: 24px;
+      }
+
+      .button,
+      .ghost {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 44px;
+        padding: 0 16px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      .button {
+        background: var(--accent);
+        border-color: var(--accent);
+        color: #fff;
+      }
+
+      .ghost {
+        background: var(--surface-strong);
+        color: var(--ink);
+      }
+
+      .section {
+        margin-top: 36px;
+      }
+
+      .section-head {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        align-items: flex-end;
+        margin-bottom: 16px;
+      }
+
+      .section-head p {
+        color: var(--muted);
+        max-width: 40rem;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 16px;
+      }
+
+      .card {
+        padding: 22px;
+        border-radius: 22px;
+        border: 1px solid var(--border);
+        background: var(--surface);
+      }
+
+      .playbook-card {
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(255, 249, 242, 0.95));
+      }
+
+      .list-card h3 {
+        margin-bottom: 10px;
+        font-size: 1.18rem;
+        line-height: 1.2;
+      }
+
+      .card-copy,
+      .card-meta,
+      .card-link,
+      .queued-item span {
+        color: var(--muted);
+        line-height: 1.55;
+      }
+
+      .card-status {
+        margin-bottom: 12px;
+        color: var(--accent);
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-size: 0.76rem;
+      }
+
+      .queued-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        gap: 12px;
+      }
+
+      .queued-item {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding: 18px;
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        background: rgba(255, 255, 255, 0.6);
+      }
+
+      footer {
+        margin-top: 42px;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      @media (max-width: 720px) {
+        .shell {
+          padding: 20px 14px 52px;
+        }
+
+        .hero {
+          padding: 24px;
+          border-radius: 22px;
+        }
+
+        .topbar,
+        .section-head {
+          display: block;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <div class="topbar">
+        <strong>EnrichAnything public repo</strong>
+        <div class="topbar-links">
+          <a href="https://github.com/bhumanai/enrichanything-gtm-hiring-signals">GitHub repo</a>
+          <a href="https://www.enrichanything.com/?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=repo-home">Main site</a>
+        </div>
+      </div>
+
+      <section class="hero">
+        <p class="eyebrow">Source-backed prospect lists</p>
+        <h1>Companies That Look Like They&#39;re Building Sales Right Now</h1>
+        <p class="lede">Lists of funded startups hiring sales leadership before the rest of the sales system is in place.</p>
+        <p class="sublede">Useful if you sell RevOps, outbound setup, or GTM recruiting into B2B teams.</p>
+
+        <div class="hero-stats">
+          <span class="stat">1 lists ready</span>
+          <span class="stat">1 notes ready</span>
+          <span class="stat">Updated March 30, 2026</span>
+        </div>
+
+        <div class="hero-actions">
+          <a class="button" href="https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders">Open the main list</a>
+          <a class="ghost" href="https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=report-europe-funded-gtm-hiring-gap">Read the matching note</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <h2>How people actually use this</h2>
+            <p>Each repo is aimed at a buyer motion, not a vague category page.</p>
+          </div>
+        </div>
+        <div class="grid">
+          <article class="card playbook-card"><p class="eyebrow">RevOps consultants</p><p class="card-copy">Start with funded teams hiring sales leadership early. The angle is that headcount is moving faster than process, tooling, or measurement.</p><p class="card-link"><a href="https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders">Start with Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure</a> <span>collecting sample</span></p></article><article class="card playbook-card"><p class="eyebrow">Outbound agencies</p><p class="card-copy">Use this when a company clearly wants pipeline but still looks early on sequencing, routing, and sales plumbing.</p><p class="card-link"><a href="https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders">Start with Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure</a> <span>collecting sample</span></p></article><article class="card playbook-card"><p class="eyebrow">GTM recruiters</p><p class="card-copy">The list helps you spot teams building go-to-market muscle quickly, even before the rest of the revenue stack catches up.</p><p class="card-link"><a href="https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders">Start with Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure</a> <span>collecting sample</span></p></article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <h2>Lists you can use now</h2>
+            <p>Open the list on EnrichAnything when you want the full table. Read the GitHub page when you want the context first.</p>
+          </div>
+        </div>
+        <div class="grid">
+          <article class="card list-card"><p class="card-status">collecting sample</p><h3>Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure</h3><p class="card-copy">A public list of European startups where fresh funding and senior GTM hiring appear ahead of a mature sales-system footprint.</p><p class="card-meta">18 rows · RevOps consultants, outbound agencies, GTM operators selling post-fund buildouts</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders">Open list</a></div></article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <h2>Notes that explain the market</h2>
+            <p>These are the short writeups behind the lists, so the repo does not feel like a random dump of CSV-shaped pages.</p>
+          </div>
+        </div>
+        <div class="grid">
+          <article class="card list-card"><p class="card-status">collecting sample</p><h3>Recently funded startups in Europe often hire GTM leaders before the sales system is fully built</h3><p class="card-copy">A public research note on how post-fund GTM hiring creates a narrow systems-build window for operators selling RevOps, outbound setup, or infrastructure help.</p><p class="card-meta">18 rows · Updated from EnrichAnything market scans · live snapshot from March 23, 2026</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/reports/europe-funded-gtm-hiring-gap/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=report-europe-funded-gtm-hiring-gap">Open note</a></div></article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <h2>Still queued up</h2>
+            <p>These ideas already exist. They just need more public sample depth.</p>
+          </div>
+        </div>
+        <div class="queued-grid">
+          <article class="queued-item"><strong>Series A SaaS hiring SDRs but not using sequencing tools</strong><span>template only</span></article><article class="queued-item"><strong>Series A SaaS teams still hire SDRs before they buy sequencing infrastructure</strong><span>template only</span></article>
+        </div>
+      </section>
+
+      <footer>
+        Want a different cut, more columns, or a fresh export? <a href="https://www.enrichanything.com/?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-gtm-hiring-signals&amp;utm_content=repo-home">Open EnrichAnything</a>.
+      </footer>
+    </main>
+  </body>
+</html>

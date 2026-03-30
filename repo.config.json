@@ -3,8 +3,9 @@
   "title": "Companies That Look Like They're Building Sales Right Now",
   "summary": "Lists of funded startups hiring sales leadership before the rest of the sales system is in place.",
   "theme": "Useful if you sell RevOps, outbound setup, or GTM recruiting into B2B teams.",
+  "accentColor": "#1d4ed8",
   "siteOrigin": "https://www.enrichanything.com",
-  "generatedAt": "2026-03-30T11:26:31.907Z",
+  "generatedAt": "2026-03-30T11:52:09.006Z",
   "topics": [
     "sales",
     "revops",
@@ -13,6 +14,39 @@
     "hiring",
     "b2b-saas",
     "prospecting"
+  ],
+  "githubOwner": "bhumanai",
+  "repoUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals",
+  "pagesUrl": "https://bhumanai.github.io/enrichanything-gtm-hiring-signals/",
+  "featuredMarketSlug": "recently-funded-europe-startups-hiring-gtm-leaders",
+  "buyerPlaybooks": [
+    {
+      "role": "RevOps consultants",
+      "pitch": "Start with funded teams hiring sales leadership early. The angle is that headcount is moving faster than process, tooling, or measurement.",
+      "startSlug": "recently-funded-europe-startups-hiring-gtm-leaders",
+      "startTitle": "Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure",
+      "startStatus": "collecting sample",
+      "startUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders",
+      "startReadmePath": "markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md"
+    },
+    {
+      "role": "Outbound agencies",
+      "pitch": "Use this when a company clearly wants pipeline but still looks early on sequencing, routing, and sales plumbing.",
+      "startSlug": "recently-funded-europe-startups-hiring-gtm-leaders",
+      "startTitle": "Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure",
+      "startStatus": "collecting sample",
+      "startUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders",
+      "startReadmePath": "markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md"
+    },
+    {
+      "role": "GTM recruiters",
+      "pitch": "The list helps you spot teams building go-to-market muscle quickly, even before the rest of the revenue stack catches up.",
+      "startSlug": "recently-funded-europe-startups-hiring-gtm-leaders",
+      "startTitle": "Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure",
+      "startStatus": "collecting sample",
+      "startUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders",
+      "startReadmePath": "markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md"
+    }
   ],
   "markets": [
     {
@@ -115,7 +149,11 @@
           "gap": "",
           "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
         }
-      ]
+      ],
+      "repoReadmePath": "markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders",
+      "trackedReportUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-report"
     },
     {
       "kind": "market",
@@ -207,7 +245,11 @@
           "note": ""
         }
       ],
-      "sampleRows": []
+      "sampleRows": [],
+      "repoReadmePath": "markets/series-a-saas-hiring-sdr-no-sequencing/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/markets/series-a-saas-hiring-sdr-no-sequencing/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing",
+      "trackedReportUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing-report"
     }
   ],
   "reports": [
@@ -260,7 +302,11 @@
           "gap": "",
           "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
         }
-      ]
+      ],
+      "repoReadmePath": "reports/europe-funded-gtm-hiring-gap/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/reports/europe-funded-gtm-hiring-gap/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap",
+      "trackedMarketUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap-market"
     },
     {
       "kind": "report",
@@ -282,7 +328,17 @@
       "citationText": "",
       "stats": [],
       "chartRows": [],
-      "sampleRows": []
+      "sampleRows": [],
+      "repoReadmePath": "reports/series-a-sdr-tooling-gap/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/reports/series-a-sdr-tooling-gap/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-series-a-sdr-tooling-gap",
+      "trackedMarketUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-series-a-sdr-tooling-gap-market"
     }
-  ]
+  ],
+  "trackedHomeUrl": "https://www.enrichanything.com/?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=repo-home",
+  "featuredMarketTitle": "Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure",
+  "featuredMarketUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders",
+  "featuredReportSlug": "europe-funded-gtm-hiring-gap",
+  "featuredReportTitle": "Recently funded startups in Europe often hire GTM leaders before the sales system is fully built",
+  "featuredReportUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap"
 }
