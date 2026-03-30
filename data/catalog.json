@@ -1,0 +1,285 @@
+{
+  "generatedAt": "2026-03-30T11:26:31.907Z",
+  "title": "Companies That Look Like They're Building Sales Right Now",
+  "summary": "Lists of funded startups hiring sales leadership before the rest of the sales system is in place.",
+  "topics": [
+    "sales",
+    "revops",
+    "lead-generation",
+    "market-intelligence",
+    "hiring",
+    "b2b-saas",
+    "prospecting"
+  ],
+  "markets": [
+    {
+      "kind": "market",
+      "slug": "recently-funded-europe-startups-hiring-gtm-leaders",
+      "title": "Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure",
+      "summary": "A public list of European startups where fresh funding and senior GTM hiring appear ahead of a mature sales-system footprint.",
+      "audience": "RevOps consultants, outbound agencies, GTM operators selling post-fund buildouts",
+      "ctaLabel": "Open this search in EnrichAnything",
+      "ctaNote": "This is strongest for operators selling RevOps, outbound setup, or GTM systems right after a fundraise.",
+      "ctaPrompt": "Build a broad, source-backed collection from funding databases, company websites, LinkedIn hiring signals, and careers pages to find recently funded startups in Europe that are hiring Head of Sales, VP Sales, or similar GTM leaders while still lacking visible mature sales infrastructure. Return company name, website, location, funding signal, infrastructure gap, and why-now notes.",
+      "methodology": "This list combines recent funding, European startup footprints, public GTM-leadership hiring, and thin visible sales-system signals. It is designed to surface a practical post-fund buildout window rather than a broad startup directory.",
+      "analysisTitle": "What the data suggests",
+      "analysisParagraphs": [
+        "The useful pattern here is timing. A startup that has just raised and is hiring GTM leadership is usually making core decisions about pipeline, tooling, and process at the same time. That makes the segment commercially stronger than a generic list of funded companies.",
+        "The value is not that the companies are merely growing. It is that the hiring signal suggests the sales motion is being formalized right now, before systems become harder to change."
+      ],
+      "analysisTakeaways": [
+        "Funding alone is weak; funding plus GTM hiring creates the useful timing wedge.",
+        "This segment works best for operators selling system setup, not generic consulting.",
+        "The note is really about a post-fund buildout window, not just startup growth."
+      ],
+      "articleSections": [
+        {
+          "title": "Why this is a real timing signal",
+          "paragraphs": [
+            "Fresh funding is one of the few public signals that reliably resets a company’s willingness to buy. On its own, though, it is still broad. GTM-leadership hiring sharpens it. When that hiring shows up alongside the raise, the market is no longer just 'funded startups' but startups actively building the commercial system that funding is meant to accelerate.",
+            "That is the point of the list. It narrows the universe to companies where the next GTM decisions are likely current, visible, and commercially actionable."
+          ],
+          "bullets": [
+            "Funding creates budget; GTM hiring creates urgency.",
+            "The best wedge is system setup while the stack is still fluid.",
+            "The note is stronger than a generic funded-company database because it adds timing and role context."
+          ]
+        },
+        {
+          "title": "How an agency should use it",
+          "paragraphs": [
+            "For an outbound, RevOps, or GTM systems shop, the note gives a concise explanation of why the linked list matters. It turns a broad startup story into a narrower operating window that is easier to pitch against.",
+            "The list should still be qualified manually, but the note helps establish the logic behind the segment and why this moment matters more than a later, more settled phase."
+          ],
+          "bullets": [
+            "Use the note as framing and the list as the execution surface.",
+            "Validate the maturity gap before outreach.",
+            "Lead with the cost of building GTM leadership before the systems layer is ready."
+          ]
+        }
+      ],
+      "signals": [
+        "Recent funding signal",
+        "Europe startup footprint",
+        "Head of Sales or GTM leadership hiring",
+        "Thin visible sales infrastructure",
+        "Post-fund buildout timing"
+      ],
+      "relatedSlugs": [
+        "series-a-saas-hiring-sdr-no-sequencing",
+        "shopify-uk-meta-no-tiktok"
+      ],
+      "reportSlug": "europe-funded-gtm-hiring-gap",
+      "siteUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders",
+      "reportUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap",
+      "status": "collecting sample",
+      "live": false,
+      "dataSource": "collecting_sample",
+      "dataNote": "This market note is still being prepared from a source-backed market scan as of March 23, 2026.",
+      "rowCount": 18,
+      "collectionTarget": 20,
+      "lastSuccessAt": "2026-03-23T19:57:49.774+00:00",
+      "lastSuccessLabel": "March 23, 2026",
+      "lastStatus": "paused",
+      "statsSource": "",
+      "stats": [],
+      "sampleRows": [
+        {
+          "company": "Alinia AI",
+          "location": "Spain",
+          "signal": "Recently posted (Mar 17, 2026) founding/first sales lead role for Europe, early-stage AI startup backed by VCs, implies unfinished sales stack as first GTM hire.",
+          "gap": "",
+          "whyNow": ""
+        },
+        {
+          "company": "Ringtime",
+          "location": "Belgium",
+          "signal": "€1.8M seed announced Mar 19, 2026; funding for expanding product team and marketing (GTM ramp), early-stage with ARR but no sales hires mentioned, likely needs GTM leaders.",
+          "gap": "",
+          "whyNow": ""
+        },
+        {
+          "company": "octonomy",
+          "location": "Germany",
+          "signal": "Appointed CRO (Jan 20, 2026) post-$20M seed to build GTM from startup phase; Cologne AI startup with 100+ employees but needing sales scaling",
+          "gap": "",
+          "whyNow": ""
+        },
+        {
+          "company": "Genesy AI",
+          "location": "Spain",
+          "signal": "Recently raised €5M seed; 20+ employee team planning expansion likely needs first GTM leaders; careers page mentioned indicating hiring",
+          "gap": "",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        }
+      ]
+    },
+    {
+      "kind": "market",
+      "slug": "series-a-saas-hiring-sdr-no-sequencing",
+      "title": "Series A SaaS hiring SDRs but not using sequencing tools",
+      "summary": "A public list of Series A SaaS companies that appear to be building outbound before adopting sequencing infrastructure.",
+      "audience": "Outbound agencies, RevOps consultants, sales infrastructure freelancers",
+      "ctaLabel": "Open this search in EnrichAnything",
+      "ctaNote": "This is most useful when you care about timing: the team is hiring, the CRM is visible, and the outbound stack still looks unfinished.",
+      "ctaPrompt": "Find Series A SaaS companies hiring SDRs or first sales reps in the last 30 days, using HubSpot or Salesforce, but with no visible sequencing tool like Outreach or Salesloft, and explain why the timing is strong.",
+      "methodology": "This list combines hiring activity, funding stage, visible CRM footprint, and sequencing-tool absence. It is designed to show a transparent sample of the segment rather than an exhaustive directory.",
+      "analysisTitle": "What the data suggests",
+      "analysisParagraphs": [
+        "This list is really about timing. When a Series A SaaS company is hiring SDRs while a CRM is already visible but no sequencing tool appears, the team is usually building outbound from scratch rather than optimizing an established motion.",
+        "That makes the segment more useful than a broad funding list. It isolates companies that have already decided outbound matters, but have not fully staffed or tooled the function yet. In practice, that creates a sharper pitch than generic sales-tech prospecting."
+      ],
+      "analysisTakeaways": [
+        "First-sales hiring is more actionable than raw funding announcements.",
+        "A visible CRM with no sequencing layer suggests unfinished GTM infrastructure.",
+        "The best pitch is speed to a working outbound system, not a future rip-and-replace."
+      ],
+      "articleSections": [
+        {
+          "title": "Why funding alone is the wrong filter",
+          "paragraphs": [
+            "Funding rounds are one of the most overused prospecting shortcuts in B2B. A Series A announcement tells you a company has capital, but it does not tell you whether the go-to-market team is actually in motion. This page is more useful because it layers hiring and tooling signals on top of stage, which turns a generic funding event into an operational moment.",
+            "The pattern matters most when you can see the company hiring into sales while the stack still looks thin. That is the point where outside help is easier to sell: the team has already committed to outbound as a function, but it has not fully institutionalized the tooling, process, or sequencing layer yet."
+          ],
+          "bullets": [
+            "Stage is only a budget proxy; hiring is the timing signal.",
+            "A visible CRM narrows the segment to teams already building sales infrastructure.",
+            "The gap is strongest when sequencing is absent but the first SDR hire is already public."
+          ]
+        },
+        {
+          "title": "How an operator would actually use this list",
+          "paragraphs": [
+            "For an outbound agency or RevOps consultant, the list is most valuable when paired with a very specific offer. The pitch is not 'you should do sales better.' It is 'you are clearly assembling outbound right now, and we can help you stand up the missing system before the team grows into bad process.'",
+            "That keeps the outreach grounded in observable change. The moment a prospect recognizes that the sender understands the build phase they are in, the list stops reading like a purchased lead source and starts reading like a practical map of who is entering a narrow operating window."
+          ],
+          "bullets": [
+            "Lead with speed-to-system rather than feature comparisons.",
+            "Use the hiring language as proof that the timing is current.",
+            "Treat this as a short-window list, not an evergreen SaaS directory."
+          ]
+        }
+      ],
+      "signals": [
+        "Series A SaaS company",
+        "Recent SDR or first-sales hiring signal",
+        "CRM present",
+        "No sequencing tool detected",
+        "Why-now note generated from hiring context"
+      ],
+      "relatedSlugs": [
+        "shopify-germany-meta-no-tiktok",
+        "accounting-firms-hiring-bookkeepers-no-automation"
+      ],
+      "reportSlug": "series-a-sdr-tooling-gap",
+      "siteUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing",
+      "reportUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap",
+      "status": "template only",
+      "live": false,
+      "dataSource": "template",
+      "dataNote": "This market note has not published a usable sample yet.",
+      "rowCount": 0,
+      "collectionTarget": 20,
+      "lastSuccessAt": "2026-03-22T17:16:10.574+00:00",
+      "lastSuccessLabel": "March 22, 2026",
+      "lastStatus": "paused",
+      "statsSource": "page_content",
+      "stats": [
+        {
+          "value": "188",
+          "label": "matching companies",
+          "detail": "Current tracked sample",
+          "note": ""
+        },
+        {
+          "value": "41",
+          "label": "fresh this month",
+          "detail": "Recent hiring signals",
+          "note": ""
+        },
+        {
+          "value": "5x",
+          "label": "better timing",
+          "detail": "Versus broad SaaS lead lists",
+          "note": ""
+        }
+      ],
+      "sampleRows": []
+    }
+  ],
+  "reports": [
+    {
+      "kind": "report",
+      "slug": "europe-funded-gtm-hiring-gap",
+      "title": "Recently funded startups in Europe often hire GTM leaders before the sales system is fully built",
+      "summary": "A public research note on how post-fund GTM hiring creates a narrow systems-build window for operators selling RevOps, outbound setup, or infrastructure help.",
+      "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 23, 2026",
+      "marketSlug": "recently-funded-europe-startups-hiring-gtm-leaders",
+      "marketUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders",
+      "siteUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap",
+      "status": "collecting sample",
+      "live": false,
+      "dataSource": "collecting_sample",
+      "dataNote": "This note is still being prepared from the linked market scan.",
+      "rowCount": 18,
+      "lastSuccessAt": "2026-03-23T19:57:49.774+00:00",
+      "lastSuccessLabel": "March 23, 2026",
+      "lastStatus": "paused",
+      "citationText": "",
+      "stats": [],
+      "chartRows": [],
+      "sampleRows": [
+        {
+          "company": "Alinia AI",
+          "location": "Spain",
+          "signal": "Recently posted (Mar 17, 2026) founding/first sales lead role for Europe, early-stage AI startup backed by VCs, implies unfinished sales stack as first GTM hire.",
+          "gap": "",
+          "whyNow": ""
+        },
+        {
+          "company": "Ringtime",
+          "location": "Belgium",
+          "signal": "€1.8M seed announced Mar 19, 2026; funding for expanding product team and marketing (GTM ramp), early-stage with ARR but no sales hires mentioned, likely needs GTM leaders.",
+          "gap": "",
+          "whyNow": ""
+        },
+        {
+          "company": "octonomy",
+          "location": "Germany",
+          "signal": "Appointed CRO (Jan 20, 2026) post-$20M seed to build GTM from startup phase; Cologne AI startup with 100+ employees but needing sales scaling",
+          "gap": "",
+          "whyNow": ""
+        },
+        {
+          "company": "Genesy AI",
+          "location": "Spain",
+          "signal": "Recently raised €5M seed; 20+ employee team planning expansion likely needs first GTM leaders; careers page mentioned indicating hiring",
+          "gap": "",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        }
+      ]
+    },
+    {
+      "kind": "report",
+      "slug": "series-a-sdr-tooling-gap",
+      "title": "Series A SaaS teams still hire SDRs before they buy sequencing infrastructure",
+      "summary": "A public research note on how often early go-to-market hiring appears before visible sequencing infrastructure.",
+      "contextLine": "Updated from EnrichAnything market scans · public sample, not a census",
+      "marketSlug": "series-a-saas-hiring-sdr-no-sequencing",
+      "marketUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing",
+      "siteUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap",
+      "status": "template only",
+      "live": false,
+      "dataSource": "template",
+      "dataNote": "The source list exists, but there are no published rows for this report yet.",
+      "rowCount": 0,
+      "lastSuccessAt": "2026-03-22T17:16:10.574+00:00",
+      "lastSuccessLabel": "March 22, 2026",
+      "lastStatus": "paused",
+      "citationText": "",
+      "stats": [],
+      "chartRows": [],
+      "sampleRows": []
+    }
+  ]
+}

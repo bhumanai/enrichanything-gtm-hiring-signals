@@ -1,0 +1,92 @@
+{
+  "kind": "market",
+  "slug": "series-a-saas-hiring-sdr-no-sequencing",
+  "title": "Series A SaaS hiring SDRs but not using sequencing tools",
+  "summary": "A public list of Series A SaaS companies that appear to be building outbound before adopting sequencing infrastructure.",
+  "audience": "Outbound agencies, RevOps consultants, sales infrastructure freelancers",
+  "ctaLabel": "Open this search in EnrichAnything",
+  "ctaNote": "This is most useful when you care about timing: the team is hiring, the CRM is visible, and the outbound stack still looks unfinished.",
+  "ctaPrompt": "Find Series A SaaS companies hiring SDRs or first sales reps in the last 30 days, using HubSpot or Salesforce, but with no visible sequencing tool like Outreach or Salesloft, and explain why the timing is strong.",
+  "methodology": "This list combines hiring activity, funding stage, visible CRM footprint, and sequencing-tool absence. It is designed to show a transparent sample of the segment rather than an exhaustive directory.",
+  "analysisTitle": "What the data suggests",
+  "analysisParagraphs": [
+    "This list is really about timing. When a Series A SaaS company is hiring SDRs while a CRM is already visible but no sequencing tool appears, the team is usually building outbound from scratch rather than optimizing an established motion.",
+    "That makes the segment more useful than a broad funding list. It isolates companies that have already decided outbound matters, but have not fully staffed or tooled the function yet. In practice, that creates a sharper pitch than generic sales-tech prospecting."
+  ],
+  "analysisTakeaways": [
+    "First-sales hiring is more actionable than raw funding announcements.",
+    "A visible CRM with no sequencing layer suggests unfinished GTM infrastructure.",
+    "The best pitch is speed to a working outbound system, not a future rip-and-replace."
+  ],
+  "articleSections": [
+    {
+      "title": "Why funding alone is the wrong filter",
+      "paragraphs": [
+        "Funding rounds are one of the most overused prospecting shortcuts in B2B. A Series A announcement tells you a company has capital, but it does not tell you whether the go-to-market team is actually in motion. This page is more useful because it layers hiring and tooling signals on top of stage, which turns a generic funding event into an operational moment.",
+        "The pattern matters most when you can see the company hiring into sales while the stack still looks thin. That is the point where outside help is easier to sell: the team has already committed to outbound as a function, but it has not fully institutionalized the tooling, process, or sequencing layer yet."
+      ],
+      "bullets": [
+        "Stage is only a budget proxy; hiring is the timing signal.",
+        "A visible CRM narrows the segment to teams already building sales infrastructure.",
+        "The gap is strongest when sequencing is absent but the first SDR hire is already public."
+      ]
+    },
+    {
+      "title": "How an operator would actually use this list",
+      "paragraphs": [
+        "For an outbound agency or RevOps consultant, the list is most valuable when paired with a very specific offer. The pitch is not 'you should do sales better.' It is 'you are clearly assembling outbound right now, and we can help you stand up the missing system before the team grows into bad process.'",
+        "That keeps the outreach grounded in observable change. The moment a prospect recognizes that the sender understands the build phase they are in, the list stops reading like a purchased lead source and starts reading like a practical map of who is entering a narrow operating window."
+      ],
+      "bullets": [
+        "Lead with speed-to-system rather than feature comparisons.",
+        "Use the hiring language as proof that the timing is current.",
+        "Treat this as a short-window list, not an evergreen SaaS directory."
+      ]
+    }
+  ],
+  "signals": [
+    "Series A SaaS company",
+    "Recent SDR or first-sales hiring signal",
+    "CRM present",
+    "No sequencing tool detected",
+    "Why-now note generated from hiring context"
+  ],
+  "relatedSlugs": [
+    "shopify-germany-meta-no-tiktok",
+    "accounting-firms-hiring-bookkeepers-no-automation"
+  ],
+  "reportSlug": "series-a-sdr-tooling-gap",
+  "siteUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing",
+  "reportUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap",
+  "status": "template only",
+  "live": false,
+  "dataSource": "template",
+  "dataNote": "This market note has not published a usable sample yet.",
+  "rowCount": 0,
+  "collectionTarget": 20,
+  "lastSuccessAt": "2026-03-22T17:16:10.574+00:00",
+  "lastSuccessLabel": "March 22, 2026",
+  "lastStatus": "paused",
+  "statsSource": "page_content",
+  "stats": [
+    {
+      "value": "188",
+      "label": "matching companies",
+      "detail": "Current tracked sample",
+      "note": ""
+    },
+    {
+      "value": "41",
+      "label": "fresh this month",
+      "detail": "Recent hiring signals",
+      "note": ""
+    },
+    {
+      "value": "5x",
+      "label": "better timing",
+      "detail": "Versus broad SaaS lead lists",
+      "note": ""
+    }
+  ],
+  "sampleRows": []
+}

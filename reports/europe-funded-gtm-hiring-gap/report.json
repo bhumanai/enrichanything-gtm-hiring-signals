@@ -1,0 +1,51 @@
+{
+  "kind": "report",
+  "slug": "europe-funded-gtm-hiring-gap",
+  "title": "Recently funded startups in Europe often hire GTM leaders before the sales system is fully built",
+  "summary": "A public research note on how post-fund GTM hiring creates a narrow systems-build window for operators selling RevOps, outbound setup, or infrastructure help.",
+  "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 23, 2026",
+  "marketSlug": "recently-funded-europe-startups-hiring-gtm-leaders",
+  "marketUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders",
+  "siteUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap",
+  "status": "collecting sample",
+  "live": false,
+  "dataSource": "collecting_sample",
+  "dataNote": "This note is still being prepared from the linked market scan.",
+  "rowCount": 18,
+  "lastSuccessAt": "2026-03-23T19:57:49.774+00:00",
+  "lastSuccessLabel": "March 23, 2026",
+  "lastStatus": "paused",
+  "citationText": "",
+  "stats": [],
+  "chartRows": [],
+  "sampleRows": [
+    {
+      "company": "Alinia AI",
+      "location": "Spain",
+      "signal": "Recently posted (Mar 17, 2026) founding/first sales lead role for Europe, early-stage AI startup backed by VCs, implies unfinished sales stack as first GTM hire.",
+      "gap": "",
+      "whyNow": ""
+    },
+    {
+      "company": "Ringtime",
+      "location": "Belgium",
+      "signal": "€1.8M seed announced Mar 19, 2026; funding for expanding product team and marketing (GTM ramp), early-stage with ARR but no sales hires mentioned, likely needs GTM leaders.",
+      "gap": "",
+      "whyNow": ""
+    },
+    {
+      "company": "octonomy",
+      "location": "Germany",
+      "signal": "Appointed CRO (Jan 20, 2026) post-$20M seed to build GTM from startup phase; Cologne AI startup with 100+ employees but needing sales scaling",
+      "gap": "",
+      "whyNow": ""
+    },
+    {
+      "company": "Genesy AI",
+      "location": "Spain",
+      "signal": "Recently raised €5M seed; 20+ employee team planning expansion likely needs first GTM leaders; careers page mentioned indicating hiring",
+      "gap": "",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    }
+  ]
+}

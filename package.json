@@ -1,0 +1,8 @@
+{
+  "name": "enrichanything-gtm-hiring-signals",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/refresh.js"
+  }
+}

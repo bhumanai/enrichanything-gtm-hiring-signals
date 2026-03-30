@@ -1,0 +1,22 @@
+{
+  "kind": "report",
+  "slug": "series-a-sdr-tooling-gap",
+  "title": "Series A SaaS teams still hire SDRs before they buy sequencing infrastructure",
+  "summary": "A public research note on how often early go-to-market hiring appears before visible sequencing infrastructure.",
+  "contextLine": "Updated from EnrichAnything market scans · public sample, not a census",
+  "marketSlug": "series-a-saas-hiring-sdr-no-sequencing",
+  "marketUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing",
+  "siteUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap",
+  "status": "template only",
+  "live": false,
+  "dataSource": "template",
+  "dataNote": "The source list exists, but there are no published rows for this report yet.",
+  "rowCount": 0,
+  "lastSuccessAt": "2026-03-22T17:16:10.574+00:00",
+  "lastSuccessLabel": "March 22, 2026",
+  "lastStatus": "paused",
+  "citationText": "",
+  "stats": [],
+  "chartRows": [],
+  "sampleRows": []
+}
