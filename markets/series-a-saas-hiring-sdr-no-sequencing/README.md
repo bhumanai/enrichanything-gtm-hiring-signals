@@ -2,8 +2,8 @@
 
 A public list of Series A SaaS companies that appear to be building outbound before adopting sequencing infrastructure.
 
-- Open in EnrichAnything: [See the live list](https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing)
-- Related note: [Read the matching note](https://www.enrichanything.com/reports/series-a-sdr-tooling-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing-report)
+- Page: https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing
+- Related note: https://www.enrichanything.com/reports/series-a-sdr-tooling-gap
 - Useful for: Outbound agencies, RevOps consultants, sales infrastructure freelancers
 - Status: template only
 - Last checked: March 22, 2026
@@ -56,4 +56,4 @@ This list combines hiring activity, funding stage, visible CRM footprint, and se
 
 This is most useful when you care about timing: the team is hiring, the CRM is visible, and the outbound stack still looks unfinished.
 
-Open [the live list in EnrichAnything](https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing) if you want the full table, extra columns, or the same search for a different niche.
+Open this list in EnrichAnything if you want the full table, extra columns, or a version for a different niche: https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing

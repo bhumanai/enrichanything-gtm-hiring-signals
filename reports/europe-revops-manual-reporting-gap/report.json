@@ -1,0 +1,83 @@
+{
+  "kind": "report",
+  "slug": "europe-revops-manual-reporting-gap",
+  "title": "European B2B SaaS teams still hire around spreadsheet-heavy reporting before the RevOps system is clean",
+  "summary": "A public research note on how RevOps hiring often shows up before reporting, dashboards, and CRM workflows are fully systematized.",
+  "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 25, 2026",
+  "marketSlug": "b2b-saas-europe-hiring-revops-manual-reporting",
+  "marketUrl": "https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting",
+  "siteUrl": "https://www.enrichanything.com/reports/europe-revops-manual-reporting-gap",
+  "status": "live",
+  "live": true,
+  "dataSource": "collected_sample",
+  "dataNote": "Built from the latest published EnrichAnything market scan.",
+  "rowCount": 20,
+  "lastSuccessAt": "2026-03-25T18:47:58.695+00:00",
+  "lastSuccessLabel": "March 25, 2026",
+  "lastStatus": "paused",
+  "citationText": "Based on EnrichAnything's latest scan of matching companies, 100% already include an explicit gap signal and 100% include a timing note.",
+  "stats": [
+    {
+      "value": "100%",
+      "label": "rows with explicit gap signal",
+      "detail": "",
+      "note": "Useful for turning the list into a clear angle"
+    },
+    {
+      "value": "100%",
+      "label": "rows with timing signal",
+      "detail": "",
+      "note": "Rows that already explain why the window matters now"
+    }
+  ],
+  "chartRows": [
+    {
+      "value": "100",
+      "label": "Rows with signal evidence",
+      "detail": "",
+      "note": "How many rows already carry an explicit signal note"
+    },
+    {
+      "value": "100",
+      "label": "Rows with gap note",
+      "detail": "",
+      "note": "How many rows already expose the missing-tool or missing-motion angle"
+    },
+    {
+      "value": "100",
+      "label": "Rows with why-now note",
+      "detail": "",
+      "note": "How many rows already explain timing in the live sample"
+    }
+  ],
+  "sampleRows": [
+    {
+      "company": "HERO Software GmbH",
+      "location": "Germany",
+      "signal": "Hiring Senior RevOps Data Analyst role in Hanover, Germany; B2B SaaS for trades/professionals",
+      "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
+      "whyNow": "RevOps hiring suggests the team is trying to fix reporting and process issues right now."
+    },
+    {
+      "company": "Haufe X360",
+      "location": "Germany",
+      "signal": "Hiring Sales Operations Manager; mentions CRM (Salesforce/HubSpot) and Excel for reports/dashboards; B2B ERP SaaS",
+      "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
+      "whyNow": "The company is explicitly hiring around reporting complexity before the systems layer is fully cleaned up."
+    },
+    {
+      "company": "SPREAD AI",
+      "location": "Germany",
+      "signal": "Hiring Senior Manager Sales Operations; B2B SaaS mentions Salesforce reports/dashboards",
+      "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "Lumiform",
+      "location": "Germany",
+      "signal": "Hiring RevOps Manager using HubSpot CRM but emphasizes turning messy spreadsheets into automated workflows and manual research/CRM hygiene - shows manual/spreadsheet reporting gap",
+      "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
+      "whyNow": "The company is explicitly hiring around reporting complexity before the systems layer is fully cleaned up."
+    }
+  ]
+}

@@ -1,12 +1,14 @@
-# Companies That Look Like They're Building Sales Right Now
+# B2B Teams Building Sales Ops Right Now
 
-Lists of funded startups hiring sales leadership before the rest of the sales system is in place.
+![B2B Teams Building Sales Ops Right Now](assets/social-preview.png)
 
-Useful if you sell RevOps, outbound setup, or GTM recruiting into B2B teams.
+Lists of B2B companies hiring into RevOps or sales leadership before the rest of the system is fully built.
+
+Useful if you sell RevOps cleanup, outbound setup, reporting rebuilds, or GTM recruiting into B2B teams.
 
 ## Start here
 
-- Fastest first click: [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) (collecting sample)
+- Fastest first click: [B2B SaaS in Europe hiring RevOps while reporting still looks manual](https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-b2b-saas-europe-hiring-revops-manual-reporting) (live)
 - Cleaner web version: [https://bhumanai.github.io/enrichanything-gtm-hiring-signals/](https://bhumanai.github.io/enrichanything-gtm-hiring-signals/)
 - Full product: [EnrichAnything](https://www.enrichanything.com/?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=repo-home)
 
@@ -17,7 +19,7 @@ Useful if you sell RevOps, outbound setup, or GTM recruiting into B2B teams.
 
 ## Use this repo if...
 
-- RevOps consultants: Start with funded teams hiring sales leadership early. The angle is that headcount is moving faster than process, tooling, or measurement. Start with [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) (collecting sample).
+- RevOps consultants: Lead with reporting cleanup. The wedge is that the company is already hiring around data and process friction instead of fixing the system cleanly. Start with [B2B SaaS in Europe hiring RevOps while reporting still looks manual](https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-b2b-saas-europe-hiring-revops-manual-reporting) (live).
 - Outbound agencies: Use this when a company clearly wants pipeline but still looks early on sequencing, routing, and sales plumbing. Start with [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) (collecting sample).
 - GTM recruiters: The list helps you spot teams building go-to-market muscle quickly, even before the rest of the revenue stack catches up. Start with [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) (collecting sample).
 
@@ -25,12 +27,14 @@ Useful if you sell RevOps, outbound setup, or GTM recruiting into B2B teams.
 
 | List | Status | Rows | Open |
 | --- | --- | ---: | --- |
+| [B2B SaaS in Europe hiring RevOps while reporting still looks manual](markets/b2b-saas-europe-hiring-revops-manual-reporting/README.md) | live | 20 | [Open in EnrichAnything](https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-b2b-saas-europe-hiring-revops-manual-reporting) |
 | [Recently funded startups in Europe hiring GTM leaders without mature sales infrastructure](markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md) | collecting sample | 18 | [Open in EnrichAnything](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) |
 
 ## Notes that explain the market
 
 | Note | Status | Rows | Open |
 | --- | --- | ---: | --- |
+| [European B2B SaaS teams still hire around spreadsheet-heavy reporting before the RevOps system is clean](reports/europe-revops-manual-reporting-gap/README.md) | live | 20 | [Open in EnrichAnything](https://www.enrichanything.com/reports/europe-revops-manual-reporting-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-revops-manual-reporting-gap) |
 | [Recently funded startups in Europe often hire GTM leaders before the sales system is fully built](reports/europe-funded-gtm-hiring-gap/README.md) | collecting sample | 18 | [Open in EnrichAnything](https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap) |
 
 ## Still queued up

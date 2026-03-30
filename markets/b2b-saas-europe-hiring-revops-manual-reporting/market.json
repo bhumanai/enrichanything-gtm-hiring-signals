@@ -1,0 +1,102 @@
+{
+  "kind": "market",
+  "slug": "b2b-saas-europe-hiring-revops-manual-reporting",
+  "title": "B2B SaaS in Europe hiring RevOps while reporting still looks manual",
+  "summary": "A public list of European B2B SaaS teams hiring RevOps while public job language still points to spreadsheets and manual dashboards.",
+  "audience": "RevOps consultants, GTM systems operators, reporting freelancers",
+  "ctaLabel": "Open this search in EnrichAnything",
+  "ctaNote": "This is strongest for operators selling RevOps cleanup, dashboard rebuilds, or reporting systems work.",
+  "ctaPrompt": "Build a broad, source-backed collection from company career pages, RevOps job boards, and public hiring pages to find B2B SaaS companies in Europe hiring RevOps or Sales Ops roles where the job language still points to spreadsheets, manual reporting, or ad hoc dashboards. Return company name, website, location, hiring signal, reporting gap, and why-now notes.",
+  "methodology": "This list combines European B2B SaaS footprints, public RevOps hiring, and job language that still points to spreadsheets, manual dashboards, or ad hoc reporting. It is designed to surface a systems-cleanup wedge, not to claim universal buying intent.",
+  "analysisTitle": "What the data suggests",
+  "analysisParagraphs": [
+    "The useful signal here is not just RevOps hiring. It is RevOps hiring that still references spreadsheet-heavy reporting, manual dashboard work, or CRM cleanup. That is what turns the segment into a systems opportunity instead of a generic job-board export.",
+    "The timing matters because these companies are publicly acknowledging data and process complexity before the reporting layer is fully cleaned up. That gives a consultant or operator a much sharper angle than broad RevOps prospecting."
+  ],
+  "analysisTakeaways": [
+    "RevOps hiring is only useful when the reporting gap is still visible in public language.",
+    "Spreadsheet and dashboard-cleanup clues make the service angle concrete fast.",
+    "This list works best for operators selling systems cleanup, not abstract GTM advice."
+  ],
+  "articleSections": [
+    {
+      "title": "Why this is a better filter than generic RevOps demand",
+      "paragraphs": [
+        "A list of companies hiring RevOps is too broad to be commercially useful on its own. Some teams are hiring into mature systems. The stronger wedge is when the hiring language still reveals spreadsheet sprawl, manual reporting, ad hoc dashboards, or CRM hygiene work that has not been systematized yet.",
+        "That changes the pitch. The operator can lead with reporting cleanup, pipeline visibility, or dashboard rebuilds instead of generic RevOps transformation language."
+      ],
+      "bullets": [
+        "Hiring alone is weak; hiring plus manual-reporting clues creates the useful wedge.",
+        "The service angle gets sharper when spreadsheet language is public.",
+        "This segment is strongest for operators who can fix reporting systems, not just audit them."
+      ]
+    },
+    {
+      "title": "How to use the list responsibly",
+      "paragraphs": [
+        "The list should be treated as a narrowed prospect pool, not as proof that every company is currently buying. Some teams may already be midway through cleanup work, and some public snippets may overstate the manual side of the process.",
+        "The practical use is still the same: start from a tighter pool where the operating problem is visible, then validate the highest-value rows before outreach."
+      ],
+      "bullets": [
+        "Treat the list as prioritization, not certainty.",
+        "Validate the top rows by reading the live job post or careers page.",
+        "Lead with a reporting problem the company already hinted at publicly."
+      ]
+    }
+  ],
+  "signals": [
+    "Europe B2B SaaS footprint",
+    "RevOps or Sales Ops hiring signal",
+    "Spreadsheet or manual dashboard language",
+    "CRM or HubSpot context visible",
+    "Current systems-cleanup timing"
+  ],
+  "relatedSlugs": [
+    "recently-funded-europe-startups-hiring-gtm-leaders",
+    "series-a-saas-hiring-sdr-no-sequencing"
+  ],
+  "reportSlug": "europe-revops-manual-reporting-gap",
+  "siteUrl": "https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting",
+  "reportUrl": "https://www.enrichanything.com/reports/europe-revops-manual-reporting-gap",
+  "status": "live",
+  "live": true,
+  "dataSource": "collected_sample",
+  "dataNote": "Published from a collected source sample based on the latest published update from March 25, 2026.",
+  "rowCount": 20,
+  "collectionTarget": 20,
+  "lastSuccessAt": "2026-03-25T18:47:58.695+00:00",
+  "lastSuccessLabel": "March 25, 2026",
+  "lastStatus": "paused",
+  "statsSource": "",
+  "stats": [],
+  "sampleRows": [
+    {
+      "company": "HERO Software GmbH",
+      "location": "Germany",
+      "signal": "Hiring Senior RevOps Data Analyst role in Hanover, Germany; B2B SaaS for trades/professionals",
+      "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
+      "whyNow": "RevOps hiring suggests the team is trying to fix reporting and process issues right now."
+    },
+    {
+      "company": "Haufe X360",
+      "location": "Germany",
+      "signal": "Hiring Sales Operations Manager; mentions CRM (Salesforce/HubSpot) and Excel for reports/dashboards; B2B ERP SaaS",
+      "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
+      "whyNow": "The company is explicitly hiring around reporting complexity before the systems layer is fully cleaned up."
+    },
+    {
+      "company": "SPREAD AI",
+      "location": "Germany",
+      "signal": "Hiring Senior Manager Sales Operations; B2B SaaS mentions Salesforce reports/dashboards",
+      "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "Lumiform",
+      "location": "Germany",
+      "signal": "Hiring RevOps Manager using HubSpot CRM but emphasizes turning messy spreadsheets into automated workflows and manual research/CRM hygiene - shows manual/spreadsheet reporting gap",
+      "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
+      "whyNow": "The company is explicitly hiring around reporting complexity before the systems layer is fully cleaned up."
+    }
+  ]
+}
