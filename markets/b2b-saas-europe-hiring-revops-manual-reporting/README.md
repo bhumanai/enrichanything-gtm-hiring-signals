@@ -2,8 +2,10 @@
 
 A public list of European B2B SaaS teams hiring RevOps while public job language still points to spreadsheets and manual dashboards.
 
-- Page: https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting
-- Related note: https://www.enrichanything.com/reports/europe-revops-manual-reporting-gap
+- Dataset page: [Open the latest dataset](https://www.enrichanything.com/datasets/markets/b2b-saas-europe-hiring-revops-manual-reporting?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-b2b-saas-europe-hiring-revops-manual-reporting-dataset)
+- Immutable snapshot: [Open the stable permalink](https://www.enrichanything.com/snapshots/markets/b2b-saas-europe-hiring-revops-manual-reporting/2026-03-25-a1b79b6994?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-b2b-saas-europe-hiring-revops-manual-reporting-snapshot)
+- Open in EnrichAnything: [See the live list](https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-b2b-saas-europe-hiring-revops-manual-reporting)
+- Related note: [Read the matching note](https://www.enrichanything.com/reports/europe-revops-manual-reporting-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-b2b-saas-europe-hiring-revops-manual-reporting-report)
 - Useful for: RevOps consultants, GTM systems operators, reporting freelancers
 - Status: live
 - Last checked: March 25, 2026
@@ -56,4 +58,4 @@ This list combines European B2B SaaS footprints, public RevOps hiring, and job l
 
 This is strongest for operators selling RevOps cleanup, dashboard rebuilds, or reporting systems work.
 
-Open this list in EnrichAnything if you want the full table, extra columns, or a version for a different niche: https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting
+Open [the live list in EnrichAnything](https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-b2b-saas-europe-hiring-revops-manual-reporting) if you want the full table, extra columns, or the same search for a different niche.

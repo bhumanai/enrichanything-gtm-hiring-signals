@@ -7,6 +7,13 @@
   "marketSlug": "recently-funded-europe-startups-hiring-gtm-leaders",
   "marketUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders",
   "siteUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap",
+  "snapshotId": "2026-03-23-72aa8960c2",
+  "datasetUrl": "https://www.enrichanything.com/datasets/reports/europe-funded-gtm-hiring-gap",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/reports/europe-funded-gtm-hiring-gap/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/reports/europe-funded-gtm-hiring-gap/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/reports/europe-funded-gtm-hiring-gap/2026-03-23-72aa8960c2",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/reports/europe-funded-gtm-hiring-gap/2026-03-23-72aa8960c2/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/reports/europe-funded-gtm-hiring-gap/2026-03-23-72aa8960c2/sample-rows.csv",
   "status": "collecting sample",
   "live": false,
   "dataSource": "collecting_sample",
@@ -47,5 +54,11 @@
       "gap": "",
       "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
     }
-  ]
+  ],
+  "repoReadmePath": "reports/europe-funded-gtm-hiring-gap/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/reports/europe-funded-gtm-hiring-gap/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/reports/europe-funded-gtm-hiring-gap/2026-03-23-72aa8960c2?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap",
+  "trackedMarketUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-funded-gtm-hiring-gap-market"
 }

@@ -7,6 +7,13 @@
   "marketSlug": "b2b-saas-europe-hiring-revops-manual-reporting",
   "marketUrl": "https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting",
   "siteUrl": "https://www.enrichanything.com/reports/europe-revops-manual-reporting-gap",
+  "snapshotId": "2026-03-25-da37a2417e",
+  "datasetUrl": "https://www.enrichanything.com/datasets/reports/europe-revops-manual-reporting-gap",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/reports/europe-revops-manual-reporting-gap/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/reports/europe-revops-manual-reporting-gap/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/reports/europe-revops-manual-reporting-gap/2026-03-25-da37a2417e",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/reports/europe-revops-manual-reporting-gap/2026-03-25-da37a2417e/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/reports/europe-revops-manual-reporting-gap/2026-03-25-da37a2417e/sample-rows.csv",
   "status": "live",
   "live": true,
   "dataSource": "collected_sample",
@@ -79,5 +86,11 @@
       "gap": "Manual reporting or spreadsheet-heavy RevOps work still visible",
       "whyNow": "The company is explicitly hiring around reporting complexity before the systems layer is fully cleaned up."
     }
-  ]
+  ],
+  "repoReadmePath": "reports/europe-revops-manual-reporting-gap/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/reports/europe-revops-manual-reporting-gap/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/reports/europe-revops-manual-reporting-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-revops-manual-reporting-gap-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/reports/europe-revops-manual-reporting-gap/2026-03-25-da37a2417e?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-revops-manual-reporting-gap-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/reports/europe-revops-manual-reporting-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-revops-manual-reporting-gap",
+  "trackedMarketUrl": "https://www.enrichanything.com/markets/b2b-saas-europe-hiring-revops-manual-reporting?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=report-europe-revops-manual-reporting-gap-market"
 }

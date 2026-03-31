@@ -58,6 +58,13 @@
   "reportSlug": "europe-funded-gtm-hiring-gap",
   "siteUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders",
   "reportUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap",
+  "snapshotId": "2026-03-23-502b192f8e",
+  "datasetUrl": "https://www.enrichanything.com/datasets/markets/recently-funded-europe-startups-hiring-gtm-leaders",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/markets/recently-funded-europe-startups-hiring-gtm-leaders/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/markets/recently-funded-europe-startups-hiring-gtm-leaders/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/markets/recently-funded-europe-startups-hiring-gtm-leaders/2026-03-23-502b192f8e",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/markets/recently-funded-europe-startups-hiring-gtm-leaders/2026-03-23-502b192f8e/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/markets/recently-funded-europe-startups-hiring-gtm-leaders/2026-03-23-502b192f8e/sample-rows.csv",
   "status": "collecting sample",
   "live": false,
   "dataSource": "collecting_sample",
@@ -98,5 +105,11 @@
       "gap": "",
       "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
     }
-  ]
+  ],
+  "repoReadmePath": "markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/markets/recently-funded-europe-startups-hiring-gtm-leaders/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/markets/recently-funded-europe-startups-hiring-gtm-leaders/2026-03-23-502b192f8e?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders",
+  "trackedReportUrl": "https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-report"
 }

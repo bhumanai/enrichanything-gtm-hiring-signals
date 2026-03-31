@@ -58,6 +58,13 @@
   "reportSlug": "series-a-sdr-tooling-gap",
   "siteUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing",
   "reportUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap",
+  "snapshotId": "2026-03-22-557cf6535a",
+  "datasetUrl": "https://www.enrichanything.com/datasets/markets/series-a-saas-hiring-sdr-no-sequencing",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/markets/series-a-saas-hiring-sdr-no-sequencing/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/markets/series-a-saas-hiring-sdr-no-sequencing/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/markets/series-a-saas-hiring-sdr-no-sequencing/2026-03-22-557cf6535a",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/markets/series-a-saas-hiring-sdr-no-sequencing/2026-03-22-557cf6535a/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/markets/series-a-saas-hiring-sdr-no-sequencing/2026-03-22-557cf6535a/sample-rows.csv",
   "status": "template only",
   "live": false,
   "dataSource": "template",
@@ -88,5 +95,11 @@
       "note": ""
     }
   ],
-  "sampleRows": []
+  "sampleRows": [],
+  "repoReadmePath": "markets/series-a-saas-hiring-sdr-no-sequencing/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-gtm-hiring-signals/blob/main/markets/series-a-saas-hiring-sdr-no-sequencing/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/markets/series-a-saas-hiring-sdr-no-sequencing?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/markets/series-a-saas-hiring-sdr-no-sequencing/2026-03-22-557cf6535a?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/markets/series-a-saas-hiring-sdr-no-sequencing?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing",
+  "trackedReportUrl": "https://www.enrichanything.com/reports/series-a-sdr-tooling-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-series-a-saas-hiring-sdr-no-sequencing-report"
 }

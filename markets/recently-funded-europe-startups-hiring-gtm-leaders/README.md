@@ -2,8 +2,10 @@
 
 A public list of European startups where fresh funding and senior GTM hiring appear ahead of a mature sales-system footprint.
 
-- Page: https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders
-- Related note: https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap
+- Dataset page: [Open the latest dataset](https://www.enrichanything.com/datasets/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-dataset)
+- Immutable snapshot: [Open the stable permalink](https://www.enrichanything.com/snapshots/markets/recently-funded-europe-startups-hiring-gtm-leaders/2026-03-23-502b192f8e?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-snapshot)
+- Open in EnrichAnything: [See the live list](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders)
+- Related note: [Read the matching note](https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-report)
 - Useful for: RevOps consultants, outbound agencies, GTM operators selling post-fund buildouts
 - Status: collecting sample
 - Last checked: March 23, 2026
@@ -56,4 +58,4 @@ This list combines recent funding, European startup footprints, public GTM-leade
 
 This is strongest for operators selling RevOps, outbound setup, or GTM systems right after a fundraise.
 
-Open this list in EnrichAnything if you want the full table, extra columns, or a version for a different niche: https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders
+Open [the live list in EnrichAnything](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders) if you want the full table, extra columns, or the same search for a different niche.
