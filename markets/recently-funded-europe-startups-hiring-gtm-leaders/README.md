@@ -3,17 +3,17 @@
 A public list of European startups where fresh funding and senior GTM hiring appear ahead of a mature sales-system footprint.
 
 - Dataset page: [Open the latest dataset](https://www.enrichanything.com/datasets/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-dataset)
-- Immutable snapshot: [Open the stable permalink](https://www.enrichanything.com/snapshots/markets/recently-funded-europe-startups-hiring-gtm-leaders/2026-03-23-502b192f8e?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-snapshot)
+- Immutable snapshot: [Open the stable permalink](https://www.enrichanything.com/snapshots/markets/recently-funded-europe-startups-hiring-gtm-leaders/2026-04-02-f52eda6887?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-snapshot)
 - Open in EnrichAnything: [See the live list](https://www.enrichanything.com/markets/recently-funded-europe-startups-hiring-gtm-leaders?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders)
 - Related note: [Read the matching note](https://www.enrichanything.com/reports/europe-funded-gtm-hiring-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-gtm-hiring-signals&utm_content=market-recently-funded-europe-startups-hiring-gtm-leaders-report)
 - Useful for: RevOps consultants, outbound agencies, GTM operators selling post-fund buildouts
-- Status: collecting sample
-- Last checked: March 23, 2026
-- Public sample: 18 rows so far
+- Status: live
+- Last checked: April 2, 2026
+- Public sample: 20 rows
 
 ## Why this list is useful
 
-This list is still filling in. The angle is clear, but the public sample is not complete yet.
+This list is live. You can use it to see the angle and the kinds of companies that match.
 
 ## Why companies land on this list
 
